@@ -1,1 +1,5 @@
-patataaaa
+<<<<<<< HEAD
+patataaa
+=======
+the patata conflict started again
+>>>>>>> origin
