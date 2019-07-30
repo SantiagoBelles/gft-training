@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+sdfasdf
+asdf
+a
+sdf
+adsfasdf
+as
+df
+asdf
+asdf
+sfd
+
+=======
 afasdfasdf
 asdf
 asd
@@ -13,3 +26,4 @@ a
 dsf
 as
 df
+>>>>>>> master
