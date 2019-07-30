@@ -1,6 +1,29 @@
+<<<<<<< HEAD
 sdfasdf
 asdf
 a
 sdf
-asfd
+adsfasdf
+as
+df
+asdf
+asdf
+sfd
 
+=======
+afasdfasdf
+asdf
+asd
+f
+asfd
+asdf
+as
+df
+asd
+f
+asdf
+a
+dsf
+as
+df
+>>>>>>> master
